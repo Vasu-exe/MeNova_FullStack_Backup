@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1776405274074,
+      "tag": "0000_wakeful_viper",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1776405357379,
+      "tag": "0001_pale_butterfly",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1776407178061,
+      "tag": "0002_lumpy_dreaming_celestial",
+      "breakpoints": true
+    }
+  ]
+}
